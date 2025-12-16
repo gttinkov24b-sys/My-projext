@@ -1,4 +1,4 @@
-import sreamlit as st
+import streamlit as st
 st.title("my first app(maybe)")
 name = st.text_input("What your name: ")
 if name:
